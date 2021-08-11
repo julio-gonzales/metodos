@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="metod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/metod_jar</output-path>
+    <root id="archive" name="metod.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/MetodosNumericos/MetodosNumericos/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="MetodosNumericos" />
+    </root>
+  </artifact>
+</component>
